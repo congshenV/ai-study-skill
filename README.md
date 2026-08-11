@@ -63,6 +63,8 @@ git clone https://github.com/congshenV/ai-study-skill.git ~/.claude/skills/study
 
 ## 📁 文件结构
 
+<!-- 文件结构概览：列出仓库内所有文件及其用途，便于快速定位 -->
+
 ```
 ai-study-skill/
 ├── SKILL.md                      # Skill 定义（核心）
